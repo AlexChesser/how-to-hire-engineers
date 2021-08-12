@@ -13,3 +13,6 @@ Spawned from a series of recurring discussions that keep popping up around the i
 - Kyle (the javascript guy) - great post on obtaining signal
 - Laurie (twitter & lego) - her blog probably has some thoughts
 - Jem Young - collect notes from frontent masters course
+- interesting link on retention: https://devopsdays.org/events/2019-chicago/program/pete-cheslock 
+  > I had watched so many companies spend countless time and energy in order to recruit the best staff possible. But after you were in the door, it seems like none of them really cared about how you might retain all those people you spent years investing in
+
