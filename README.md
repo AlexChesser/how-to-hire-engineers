@@ -10,9 +10,15 @@ Spawned from a series of recurring discussions that keep popping up around the i
 
 ## Any great guides / articles for engineers who are new to interviewing?
 
-- Kyle (the javascript guy) - great post on obtaining signal
-- Laurie (twitter & lego) - her blog probably has some thoughts
+- Kyle Simpson (the javascript guy) - <https://gist.github.com/getify/4f4b7886d181d5fe9c6b1bfdf134709f> what hiring should look like
+- Laurie Barth (twitter & lego) - her blog probably has some thoughts
+  - **- // TODO: read these and summarize**
+  - <https://laurieontech.com/posts/interviews/> designing a technical
+  - <https://laurieontech.com/posts/senior-interviews/> designing senior interviews
+  - <https://laurieontech.com/posts/job-search/> her job search
 - Jem Young - collect notes from frontent masters course
+  - Jem discusses "remembering the human" and ensuring a positive candidate experience.
+  - Note that Netflix *DOES* give candidate feedback on how to improve
 - interesting link on retention: https://devopsdays.org/events/2019-chicago/program/pete-cheslock 
   > I had watched so many companies spend countless time and energy in order to recruit the best staff possible. But after you were in the door, it seems like none of them really cared about how you might retain all those people you spent years investing in
 - https://eng-hiring.18f.gov
