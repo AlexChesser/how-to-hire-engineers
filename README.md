@@ -1,6 +1,18 @@
 # how-to-hire-engineers
 Spawned from a series of recurring discussions that keep popping up around the internet on how hiring sucks and how to improve the candidate experience, this repos is intended to collect a series of works on the subject of how to sit on the other side of the hiring table.
 
+## A note on this document
+
+Thanks for stopping by! The goal of this project is to help compile a working set of best practices within technology hiring. Production of the document will be built out in stages as I get time. I expect to be able to dedicate 1 to 2 hours a week on this and schedule the work night around other side projects (the current priority of this ranks as a side project to my side project so you can expect a certain, incredibly hacky level of quality here).
+
+I expect the project will have a number of phases:
+
+- **phase 1**: compile documents and available information on the topic turning this into a curated list of docs
+- **phase 2**: read, summarize and organize existing advice into clustered recommendations
+- **phase 3**: synthesize the clusters into a robust framework in creating a great candidate experience that is both valid and reliable
+
+Readers are welcome to contribute or just join in on [discussions](https://github.com/AlexChesser/how-to-hire-engineers/discussions)
+
 ## Preamble: Why interview?
 
 - _signal_
