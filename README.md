@@ -57,5 +57,5 @@ This is not to say that we should under-value work experience HOWEVER
 > 1. if above is true, one should really make sure that the _minimum_ bar is set to be the _true minimum_
 > ultimately you should consider and evaluate candidate's experience, but don't _obsess_ over it
 
-
+- Setting up an internship program <https://codingsans.com/blog/creating-an-internship-program>
 
