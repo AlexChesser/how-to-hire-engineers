@@ -58,4 +58,5 @@ This is not to say that we should under-value work experience HOWEVER
 > ultimately you should consider and evaluate candidate's experience, but don't _obsess_ over it
 
 - Setting up an internship program <https://codingsans.com/blog/creating-an-internship-program>
+- How to avoid hiring great engineers <https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/>
 
