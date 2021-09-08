@@ -60,3 +60,8 @@ This is not to say that we should under-value work experience HOWEVER
 - Setting up an internship program <https://codingsans.com/blog/creating-an-internship-program>
 - How to avoid hiring great engineers <https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/>
 
+### How to conduct the interview
+
+- <https://zety.com/blog/illegal-interview-questions> Illegal Interview Questions an Employer Cannot Ask [So Don't Answer!]
+- <https://www.humu.com/blog/why-the-best-way-to-hire-is-incredibly-boring> Why the best way to hire is incredibly boring
+- <https://www.holloway.com/g/technical-recruiting-hiring/sections/improving-di-in-the-hiring-process> Improving D&I in the Hiring Process
