@@ -65,3 +65,12 @@ This is not to say that we should under-value work experience HOWEVER
 - <https://zety.com/blog/illegal-interview-questions> Illegal Interview Questions an Employer Cannot Ask [So Don't Answer!]
 - <https://www.humu.com/blog/why-the-best-way-to-hire-is-incredibly-boring> Why the best way to hire is incredibly boring
 - <https://www.holloway.com/g/technical-recruiting-hiring/sections/improving-di-in-the-hiring-process> Improving D&I in the Hiring Process
+
+### Books
+
+- <https://www.amazon.com/dp/0470128356/> Hire With Your Head: Using Performance-Based Hiring to Build Great Teams 3rd Edition
+- <https://whothebook.com> WHO: the A method of hiring
+  - Make sure interviews build on each other and don't let every interviewer do their own thing
+  - Make sure you have a very well defined hiring rubric/scorecard
+  - Grade candidates on what they did and not what they would do (e.g. instead of hypothetical scenarios explore scenarios they went through in their previous roles)
+- <https://www.amazon.com/Effective-Hiring-Manager-Mark-Horstman/dp/1119574323> The Effective Hiring Manager
