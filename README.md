@@ -60,6 +60,10 @@ This is not to say that we should under-value work experience HOWEVER
 - Setting up an internship program <https://codingsans.com/blog/creating-an-internship-program>
 - How to avoid hiring great engineers <https://www.getparthenon.com/blog/how-to-avoid-hiring-the-best-developers/>
 
+- Wepay how we hire engineers <https://wecode.wepay.com/posts/software-engineering-interviewing-wepay>
+- Interviewing at Wepay <https://wecode.wepay.com/posts/interviewing-at-wepay-the-why>
+
+
 ### How to conduct the interview
 
 - <https://zety.com/blog/illegal-interview-questions> Illegal Interview Questions an Employer Cannot Ask [So Don't Answer!]
