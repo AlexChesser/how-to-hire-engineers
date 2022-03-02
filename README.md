@@ -78,3 +78,5 @@ This is not to say that we should under-value work experience HOWEVER
   - Make sure you have a very well defined hiring rubric/scorecard
   - Grade candidates on what they did and not what they would do (e.g. instead of hypothetical scenarios explore scenarios they went through in their previous roles)
 - <https://www.amazon.com/Effective-Hiring-Manager-Mark-Horstman/dp/1119574323> The Effective Hiring Manager
+- <https://www.joelonsoftware.com/2007/06/05/smart-and-gets-things-done/> book by Joel (the stack overflow guy! kindof a big deal :) )
+- <https://www.jrothman.com/books/hiring-geeks-that-fit/> - hiring geeks that fit
