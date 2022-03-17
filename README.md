@@ -34,6 +34,7 @@ Readers are welcome to contribute or just join in on [discussions](https://githu
 - interesting link on retention: https://devopsdays.org/events/2019-chicago/program/pete-cheslock 
   > I had watched so many companies spend countless time and energy in order to recruit the best staff possible. But after you were in the door, it seems like none of them really cared about how you might retain all those people you spent years investing in
 - https://eng-hiring.18f.gov
+- <https://stripe.com/en-ie/guides/recruiting-hiring-and-managing-talent> stripe's playbook for how to hire engineers
 - https://www.rubick.com/candidate-packet-for-interviews/
 > Interviewing is a stressful process. Candidates have no idea what to expect, because companies tend to jerk them around and expectations for the interview are unclear. You can solve this with a candidate packet!
 - via moj
